@@ -1,3 +1,3 @@
 # mobile-readme-bug-example
 
-[test.md](test.md)
+[test.md](test/test.md)
